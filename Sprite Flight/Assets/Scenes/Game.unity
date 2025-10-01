@@ -1199,6 +1199,7 @@ MonoBehaviour:
   maxSpeed: 5
   thrustForce: 4
   uiDocument: {fileID: 836346562}
+  explosionEffect: {fileID: 5127435983987174435, guid: fd5fc38b15e024c169cbeff3512bca71, type: 3}
 --- !u!1 &1464135297
 GameObject:
   m_ObjectHideFlags: 0
